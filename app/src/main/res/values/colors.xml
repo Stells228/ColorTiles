@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Плитки -->
+    <color name="bright">#FFE79A</color>       <!-- светлая: тёплый жёлтый, "солнечный смайл" -->
+    <color name="dark">#4F68A8</color>         <!-- тёмная: приглушённый кобальт, "сонный смайл" -->
+    <color name="dark_face">#FFF3D6</color>    <!-- черты лица на тёмной плитке -->
+
+    <!-- Ретро-интерфейс: пастель + чистый чёрный контур -->
+    <color name="ink">#000000</color>
+    <color name="bg">#F3EAD8</color>           <!-- бежевый фон экрана -->
+    <color name="paper">#FFF9EE</color>        <!-- "бумага" внутри окон -->
+    <color name="muted">#6E6457</color>
+    <color name="coral">#FF8C6B</color>        <!-- единственный яркий акцент - главная кнопка -->
+    <color name="butter">#FFE07A</color>
+    <color name="mint">#A7DFC8</color>
+    <color name="sky">#9CC9EE</color>
+    <color name="pink">#F7B2C9</color>
+</resources>

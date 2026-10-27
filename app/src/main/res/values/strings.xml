@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Color Tiles</string>
+
+    <string name="title">COLOR TILES</string>
+    <string name="badge">ОР-6 · 4×4</string>
+
+    <string name="moves_label">ХОДЫ</string>
+    <string name="loading">ВЫРАВНИВАНИЕ ПОЛЯ…</string>
+    <string name="loading_done">LOADING COMPLETED!</string>
+    <string name="counts">светлых %1$d · тёмных %2$d</string>
+
+    <string name="hint_light">↖ светлые</string>
+    <string name="hint_dark">↖ тёмные</string>
+    <string name="hint_label">ПОДСКАЗКА</string>
+    <string name="new_game">НОВАЯ ИГРА</string>
+
+    <string name="win_title">ПОБЕДА!</string>
+    <string name="win_light_body">Все плитки светлые\nХодов: %1$d</string>
+    <string name="win_dark_body">Все плитки тёмные\nХодов: %1$d</string>
+    <string name="ok">ОК</string>
+    <string name="again">ЕЩЁ РАЗ</string>
+
+    <!-- Toast - в виде окна notify.exe -->
+    <string name="toast_title_light">Победа светлых!</string>
+    <string name="toast_title_dark">Победа тёмных!</string>
+    <string name="toast_text">поле выровнено за %1$d ход%2$s</string>
+
+    <string name="cd_light">светлая плитка</string>
+    <string name="cd_dark">тёмная плитка</string>
+</resources>
